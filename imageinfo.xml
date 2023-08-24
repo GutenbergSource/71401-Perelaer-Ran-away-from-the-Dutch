@@ -1,0 +1,15 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/frontispiece.jpg" filesize="147608" filedate="2023-08-12 20:53:30" width="493px" height="720px"/>
+<image path="images/new-cover.jpg" filesize="64688" filedate="2023-08-12 20:53:30" width="480px" height="720px"/>
+<image path="images/p020.jpg" filesize="136343" filedate="2023-08-12 20:53:30" width="501px" height="720px"/>
+<image path="images/p072.jpg" filesize="124598" filedate="2023-08-12 20:53:30" width="504px" height="720px"/>
+<image path="images/p190.jpg" filesize="137464" filedate="2023-08-12 20:53:30" width="498px" height="720px"/>
+<image path="images/p239.jpg" filesize="143050" filedate="2023-08-12 20:53:30" width="497px" height="720px"/>
+<image path="images/p261.jpg" filesize="127420" filedate="2023-08-12 20:53:30" width="493px" height="720px"/>
+<image path="images/p302.jpg" filesize="147222" filedate="2023-08-12 20:53:30" width="488px" height="720px"/>
+<image path="images/p325.jpg" filesize="118842" filedate="2023-08-12 20:53:30" width="478px" height="720px"/>
+<image path="images/p333.jpg" filesize="148872" filedate="2023-08-12 20:53:30" width="495px" height="720px"/>
+<image path="images/p354.jpg" filesize="132952" filedate="2023-08-12 20:53:30" width="479px" height="720px"/>
+<image path="images/qr71401.png" filesize="266" filedate="2023-08-14 21:44:33" width="148px" height="148px"/>
+<image path="images/titlepage.png" filesize="9060" filedate="2023-08-12 20:53:30" width="490px" height="720px"/>
+</images>
